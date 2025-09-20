@@ -1,3 +1,4 @@
 LISTA DE NOMBRE
 =================
-Jose Viejo Huerta
+Jose Viejo Huerta  
+Josue Obed Arias
